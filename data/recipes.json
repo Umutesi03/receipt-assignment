@@ -1,0 +1,207 @@
+{
+  "recipes": [
+    {
+      "slug": "fluffy-pancakes",
+      "title": "Fluffy Pancakes",
+      "description": "Start your morning with these incredibly fluffy and delicious pancakes. Perfect for a weekend breakfast treat!",
+      "image": "pancake.jpg",
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "3 1/2 teaspoons baking powder",
+        "1 teaspoon salt",
+        "1 tablespoon white sugar",
+        "1 1/4 cups milk",
+        "1 egg",
+        "3 tablespoons butter, melted"
+      ],
+      "instructions": [
+        "In a large bowl, sift together the flour, baking powder, salt and sugar.",
+        "Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.",
+        "Heat a lightly oiled griddle or frying pan over medium-high heat.",
+        "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.",
+        "Brown on both sides and serve hot with maple syrup and butter."
+      ],
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "servings": 4,
+      "difficulty": "Easy",
+      "calories": 250,
+      "tags": ["breakfast", "sweet", "quick"],
+      "dateAdded": "2025-05-01"
+    },
+    {
+      "slug": "homemade-pizza",
+      "title": "Homemade Pizza",
+      "description": "Create the perfect homemade pizza with a crispy crust and your favorite toppings. This recipe is customizable and fun to make with family and friends!",
+      "image": "pizza.jpg",
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 teaspoon salt",
+        "1 teaspoon sugar",
+        "1 tablespoon active dry yeast",
+        "1 cup warm water",
+        "2 tablespoons olive oil",
+        "1/2 cup tomato sauce",
+        "2 cups mozzarella cheese, shredded",
+        "Your choice of toppings (pepperoni, mushrooms, bell peppers, etc.)"
+      ],
+      "instructions": [
+        "In a large bowl, mix flour, salt, sugar, and yeast.",
+        "Add warm water and olive oil, then stir until a soft dough forms.",
+        "Knead the dough on a floured surface for about 5 minutes until smooth and elastic.",
+        "Place in a greased bowl, cover, and let rise for 30 minutes.",
+        "Preheat oven to 450°F (230°C).",
+        "Roll out the dough on a floured surface to your desired thickness.",
+        "Transfer to a pizza pan or baking sheet.",
+        "Spread tomato sauce over the dough, leaving a small border for the crust.",
+        "Sprinkle with cheese and add your favorite toppings.",
+        "Bake for 12-15 minutes until the crust is golden and the cheese is bubbly."
+      ],
+      "prepTime": "45 minutes",
+      "cookTime": "15 minutes",
+      "servings": 4,
+      "difficulty": "Medium",
+      "calories": 320,
+      "tags": ["dinner", "italian", "family"],
+      "dateAdded": "2025-05-05"
+    },
+    {
+      "slug": "chocolate-chip-cookies",
+      "title": "Classic Chocolate Chip Cookies",
+      "description": "Everyone's favorite classic chocolate chip cookies - soft, chewy, and loaded with chocolate chips. Perfect for dessert, snacks, or gifting!",
+      "image": "cookies.jpg",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1 teaspoon salt",
+        "1 cup unsalted butter, softened",
+        "3/4 cup granulated sugar",
+        "3/4 cup packed brown sugar",
+        "2 large eggs",
+        "2 teaspoons vanilla extract",
+        "2 cups semi-sweet chocolate chips"
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "In a small bowl, mix flour, baking soda, and salt.",
+        "In a large bowl, cream together butter, granulated sugar, and brown sugar until smooth.",
+        "Beat in eggs one at a time, then stir in vanilla.",
+        "Gradually blend in the dry ingredients.",
+        "Stir in chocolate chips.",
+        "Drop by rounded tablespoons onto ungreased baking sheets.",
+        "Bake for 9 to 11 minutes or until golden brown.",
+        "Let stand on baking sheet for 2 minutes, then remove to cool on wire racks."
+      ],
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "servings": 24,
+      "difficulty": "Easy",
+      "calories": 180,
+      "tags": ["dessert", "baking", "snack"],
+      "dateAdded": "2025-05-10"
+    },
+    {
+      "slug": "vegetable-stir-fry",
+      "title": "Quick Vegetable Stir Fry",
+      "description": "A healthy and colorful vegetable stir fry that comes together in minutes. Perfect for a quick weeknight dinner!",
+      "image": "stir-fry.jpg",
+      "ingredients": [
+        "2 tablespoons vegetable oil",
+        "2 cloves garlic, minced",
+        "1 tablespoon ginger, grated",
+        "1 bell pepper, sliced",
+        "1 carrot, julienned",
+        "1 cup broccoli florets",
+        "1 cup snap peas",
+        "1/4 cup soy sauce",
+        "1 tablespoon honey",
+        "1 teaspoon sesame oil",
+        "2 green onions, sliced",
+        "1 tablespoon sesame seeds"
+      ],
+      "instructions": [
+        "Heat vegetable oil in a large wok or skillet over high heat.",
+        "Add garlic and ginger, stir for 30 seconds until fragrant.",
+        "Add bell pepper and carrot, stir fry for 2 minutes.",
+        "Add broccoli and snap peas, continue stir frying for 3-4 minutes until vegetables are crisp-tender.",
+        "In a small bowl, mix soy sauce, honey, and sesame oil.",
+        "Pour sauce over vegetables and toss to coat.",
+        "Cook for another minute until sauce thickens slightly.",
+        "Garnish with green onions and sesame seeds before serving.",
+        "Serve hot over rice or noodles if desired."
+      ],
+      "prepTime": "15 minutes",
+      "cookTime": "10 minutes",
+      "servings": 4,
+      "difficulty": "Easy",
+      "calories": 220,
+      "tags": ["dinner", "vegetarian", "healthy", "quick"],
+      "dateAdded": "2025-05-15"
+    },
+    {
+      "slug": "chicken-alfredo-pasta",
+      "title": "Creamy Chicken Alfredo Pasta",
+      "description": "A rich and creamy pasta dish with tender chicken and Parmesan cheese. This restaurant-quality meal is surprisingly easy to make at home!",
+      "image": "chicken-alfredo.jpg",
+      "ingredients": [
+        "8 oz fettuccine pasta",
+        "2 boneless, skinless chicken breasts",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1 cup grated Parmesan cheese",
+        "4 tablespoons butter",
+        "Salt and pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Cook pasta according to package directions until al dente. Drain and set aside.",
+        "Season chicken breasts with salt and pepper on both sides.",
+        "Heat olive oil in a large skillet over medium-high heat.",
+        "Cook chicken for 5-7 minutes per side until golden and cooked through. Remove and slice into strips.",
+        "In the same skillet, add butter and garlic. Cook for 1 minute until fragrant.",
+        "Pour in heavy cream and bring to a simmer.",
+        "Reduce heat to low and gradually whisk in Parmesan cheese until melted and sauce is smooth.",
+        "Add cooked pasta to the sauce and toss to coat.",
+        "Add sliced chicken and gently combine.",
+        "Serve hot, garnished with additional Parmesan cheese and chopped parsley."
+      ],
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "servings": 4,
+      "difficulty": "Medium",
+      "calories": 650,
+      "tags": ["dinner", "pasta", "italian", "comfort food"],
+      "dateAdded": "2025-05-17"
+    },
+    {
+      "slug": "berry-smoothie-bowl",
+      "title": "Mixed Berry Smoothie Bowl",
+      "description": "A nutritious and Instagram-worthy smoothie bowl packed with antioxidants and topped with fresh fruits and granola.",
+      "image": "smoothie-bowl.jpg",
+      "ingredients": [
+        "1 cup frozen mixed berries (strawberries, blueberries, raspberries)",
+        "1 frozen banana",
+        "1/2 cup Greek yogurt",
+        "1/4 cup almond milk",
+        "1 tablespoon honey or maple syrup",
+        "Toppings: fresh berries, sliced banana, granola, chia seeds, coconut flakes"
+      ],
+      "instructions": [
+        "Add frozen berries, banana, Greek yogurt, almond milk, and sweetener to a blender.",
+        "Blend until smooth and creamy. The mixture should be thick enough to eat with a spoon.",
+        "If too thick, add a splash more almond milk. If too thin, add more frozen fruit.",
+        "Pour into a bowl.",
+        "Arrange toppings in an attractive pattern on top of the smoothie.",
+        "Serve immediately and enjoy with a spoon."
+      ],
+      "prepTime": "5 minutes",
+      "cookTime": "0 minutes",
+      "servings": 1,
+      "difficulty": "Easy",
+      "calories": 320,
+      "tags": ["breakfast", "healthy", "vegetarian", "quick"],
+      "dateAdded": "2025-05-19"
+    }
+  ]
+}
